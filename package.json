@@ -1,11 +1,11 @@
 {
-  "name": "vuepress-plugin-code-copy",
+  "name": "vuepress-plugin-copy-code",
   "version": "0.0.1",
   "description": "A vuepress plugin for clipboard-copy",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/artiely/vuepress-plugin-code-copy.git"
+    "url": "git+ssh://git@github.com/artiely/vuepress-plugin-copy-code.git"
   },
   "scripts": {
     "eslint-ext": "eslint --ext .js,.vue ./",
@@ -15,16 +15,17 @@
     "vuepress",
     "plugin",
     "clipboard-copy",
+    "vuepress-copy-code",
     "vuepress-code-copy",
     "copy",
-    "code-copy"
+    "copy-code"
   ],
-  "author": "artiely",
+  "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vxhly/vuepress-plugin-code-copy/issues"
+    "url": "https://github.com/artiely/vuepress-plugin-copy-code/issues"
   },
-  "homepage": "https://github.com/vxhly/vuepress-plugin-code-copy#readme",
+  "homepage": "https://github.com/artiely/vuepress-plugin-copy-code#readme",
   "devDependencies": {
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
