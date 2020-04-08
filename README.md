@@ -2,10 +2,6 @@
 
 > A vuepress plugin for clipboard-copy
 
-[![npm](https://img.shields.io/npm/v/vuepress-plugin-copy-code.svg)](https://www.npmjs.com/package/vuepress-plugin-copy-code)
-[![GitHub stars](https://img.shields.io/github/stars/vxhly/vuepress-plugin-copy-code)](https://github.com/vxhly/vuepress-plugin-copy-code/stargazers)
-[![GitHub license](https://img.shields.io/github/license/vxhly/vuepress-plugin-copy-code)](https://github.com/vxhly/vuepress-plugin-copy-code/blob/master/LICENSE)
-
 ## Install
 
 ``` bash
@@ -40,7 +36,8 @@ module.exports = {
   }]
 }
 ```
-
+## demo
+[https://artiely.gitee.io](https://artiely.gitee.io)
 ## License
 
 [MIT](https://github.com/vxhly/vuepress-plugin-copy-code/blob/master/LICENSE).
