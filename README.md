@@ -38,6 +38,4 @@ module.exports = {
 ```
 ## demo
 [https://artiely.gitee.io](https://artiely.gitee.io)
-## License
 
-[MIT](https://github.com/vxhly/vuepress-plugin-copy-code/blob/master/LICENSE).
